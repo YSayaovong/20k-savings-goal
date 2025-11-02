@@ -1,8 +1,8 @@
 # 20K Savings Dashboard – How to Run & What It Solves
 
-This project is a **senior-level data analyst dashboard** built with **Python, Streamlit, SQLite, and VS Code**.
+This project is a **data analyst dashboard** built with **Python, Streamlit, SQLite, and VS Code**.
 
-It models your **bi-weekly $100 deposits**, applies **monthly compounding**, and projects exactly **when you will reach $20,000**.  
+It models a **bi-weekly $100 deposits**, applies **monthly compounding**, and projects exactly **when you will reach $20,000**.  
 It includes KPIs, charts, a scenario tool, and a downloadable cashflow table.
 
 ---
