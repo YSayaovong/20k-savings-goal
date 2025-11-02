@@ -58,19 +58,19 @@ Your dashboard will open in your browser.
 
 ### **Forecast & KPIs**
 Shows goal date, months to goal, contribution totals, and interest totals.
-![Forecast Tracking](forecast_tracking.PNG)
+![Forecast Tracking](assets/forecast_tracking.PNG)
 
 ---
 
 ### **Monthly Cashflows**
 Shows deposits, interest, and ending balance month by month.
-![Cashflow Table](cashflow.PNG)
+![Cashflow Table](assets/cashflow.PNG)
 
 ---
 
 ### **Scenario Analysis**
 Adjust deposit, APY, or projection length and see new results instantly.
-![Scenarios Page](scenarios.PNG)
+![Scenarios Page](assets/scenarios.PNG)
 
 ---
 
@@ -92,10 +92,4 @@ Adjust deposit, APY, or projection length and see new results instantly.
 ```
 
 ---
-
-## ✅ Summary
-- Real financial forecasting tool  
-- SQL + Python + Streamlit  
-- Professional data analyst workflow  
-- Perfect for GitHub and your portfolio  
 
