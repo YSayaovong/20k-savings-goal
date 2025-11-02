@@ -1,4 +1,4 @@
-# 20K Savings Dashboard (VS Code / Anaconda / Colab)
+# 20K Savings Dashboard (VS Code)
 
 Senior-level data analyst project that models a bi-weekly savings plan with monthly compounding, produces a cashflow table, exposes SQL KPIs, and ships an interactive Streamlit dashboard.
 
