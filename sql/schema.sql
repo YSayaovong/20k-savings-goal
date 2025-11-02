@@ -1,0 +1,2 @@
+-- Placeholder for schema changes (SQLite). The pipeline creates the table.
+-- You can add derived tables or views here.

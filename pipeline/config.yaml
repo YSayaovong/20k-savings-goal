@@ -1,0 +1,7 @@
+start_date: "2025-11-01"
+first_deposit_date: "2025-11-08"
+starting_balance: 143.24
+deposit_amount_biweekly: 100.0
+apy_percent: 3.8
+goal_amount: 20000
+projection_horizon_months: 120
