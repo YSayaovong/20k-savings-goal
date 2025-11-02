@@ -24,7 +24,7 @@ It turns your savings into a **data-driven model**, just like what analysts buil
 
 ### **1. Go to your project folder**
 ```powershell
-cd "E:\Career Projects\Data Analyst Projects\20k-savings-dashboard"
+cd "C:\your_project_folder"
 ```
 
 ### **2. Create and activate your virtual environment**
