@@ -24,9 +24,12 @@ The family inputs their current plan:
 The dashboard instantly generates:
 
 - A **goal date projection**  
-- Total contributions vs. interest earned  
+- Total contributions vs interest earned  
 - A full **cashflow table**  
-- A line chart showing progress toward $20K  
+- A visual progress tracker
+
+**Forecast Tracking Preview**  
+![Forecast Tracking](https://github.com/YSayaovong/20k-savings-goal/blob/main/assets/forecast_tracking.PNG)
 
 ---
 
@@ -39,6 +42,9 @@ The baseline forecast shows:
 - Total interest earned: **~$3,200**  
 - Interest overtakes monthly contributions around Year 6  
 
+**Cashflow Table Preview**  
+![Cashflow Table](https://github.com/YSayaovong/20k-savings-goal/blob/main/assets/cashflow.PNG)
+
 The family is surprised — they believed they would hit the goal in 4–5 years.  
 This demonstrates why **data-driven forecasting** matters.
 
@@ -46,45 +52,47 @@ This demonstrates why **data-driven forecasting** matters.
 
 ### ✅ Step 3 — Scenario Testing
 
-The family uses the dashboard's Scenario page to ask:
+The family uses the dashboard's Scenario page to explore better strategies:
 
 **What if we increase deposits to $150 every two weeks?**  
-New projection:
 - Time to goal drops to **5.1 years**
 
 **What if APY rises from 4% → 5%?**  
 - Goal accelerates by **6 months**
 
 **What if we combine both (higher deposit + higher APY)?**  
-- Goal achieved in **4.3 years**, almost **3.5 years faster** than the baseline
+- Goal achieved in **4.3 years**, nearly **3.5 years faster** than baseline
 
-These insights give them clear financial leverage points:
+**Scenarios Preview**  
+![Scenarios](https://github.com/YSayaovong/20k-savings-goal/blob/main/assets/scenarios.PNG)
+
+Insights gained:
 - Contribution size matters more early  
-- APY matters more later as interest compounds  
-- Small changes create major long-term savings impacts  
+- APY matters more later (compound effect)  
+- Minor adjustments drastically change the timeline  
 
 ---
 
 ### ✅ Step 4 — Decision & Plan
 
-Based on the scenario analysis, they choose:
+Based on what they learned, the family chooses to:
 
 ✅ Increase deposits to **$150 bi-weekly**  
-✅ Switch to a **high-yield savings account** at 5%  
-✅ Review the dashboard monthly to monitor progress  
+✅ Move funds to a **5% high-yield savings account**  
+✅ Review the dashboard each month  
 
-The dashboard becomes their ongoing planning tool.
+The dashboard becomes their personal financial planning assistant.
 
 ---
 
 ### ✅ Step 5 — Outcome After 12 Months
 
-When they revisit the dashboard after a year:
+One year later:
 
-- They are **ahead of schedule by 4 months**  
-- Contribution discipline improved because they could visually track progress  
-- Their interest earnings doubled compared to the old plan  
-- They now feel confident and motivated, not “guessing”  
+- They are **4 months ahead of schedule**  
+- Their interest earnings doubled  
+- Savings habits improved due to visual tracking  
+- They now feel confident, motivated, and in control  
 
-This reinforces the value of the dashboard:  
-**Clear numbers → better decisions → faster progress.**
+This demonstrates the dashboard’s core value:  
+**Clear numbers → Better decisions → Faster goals.**
