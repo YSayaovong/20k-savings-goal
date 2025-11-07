@@ -1,95 +1,90 @@
-# 20K Savings Dashboard – How to Run & What It Solves
+## 📚 Case Study: Accelerating a Savings Goal Through Data-Driven Planning
 
-This project is a **data analyst dashboard** built with **Python, Streamlit, SQLite, and VS Code**.
+### ✅ Scenario
+A young family wants to build a **$20,000 emergency fund** as fast as possible.  
+They currently save inconsistently and have no clear idea of:
 
-It models a **bi-weekly $100 deposits**, applies **monthly compounding**, and projects exactly **when you will reach $20,000**.  
-It includes KPIs, charts, a scenario tool, and a downloadable cashflow table.
+- When they’ll actually reach $20K  
+- How much interest they’re earning  
+- Whether their current deposit schedule is realistic  
+- How much faster they could reach their goal by adjusting deposits or APY  
 
----
-
-## ✅ What This Solves
-
-This dashboard answers:
-
-- *When will I reach my savings goal?*  
-- *How much interest will I earn?*  
-- *How do different APYs or deposit amounts change the timeline?*  
-- *How do contributions compare to interest over time?*
-
-It turns your savings into a **data-driven model**, just like what analysts build in banking and fintech.
+They decide to use the **20K Savings Dashboard** to create a clear timeline and test different savings strategies.
 
 ---
 
-## ✅ How to Run the Project (VS Code)
+### ✅ Step 1 — Baseline Inputs
+The family inputs their current plan:
 
-### **1. Go to your project folder**
-```powershell
-cd "C:\your_project_folder"
-```
+- **$100 bi-weekly deposits**  
+- **4.00% APY**  
+- **Monthly compounding**  
+- **Starting balance: $0**  
 
-### **2. Create and activate your virtual environment**
-```powershell
-py -m venv venv
-.env\Scriptsctivate
-```
+The dashboard instantly generates:
 
-### **3. Install dependencies**
-```powershell
-pip install --upgrade pip setuptools wheel
-pip install -r requirements.txt
-```
-
-### **4. Generate data**
-```powershell
-py pipeline\generate_cashflows.py
-py pipeline\load_to_sqlite.py
-```
-
-### **5. Run the dashboard**
-```powershell
-py -m streamlit run app\app.py
-```
-
-Your dashboard will open in your browser.
+- A **goal date projection**  
+- Total contributions vs. interest earned  
+- A full **cashflow table**  
+- A line chart showing progress toward $20K  
 
 ---
 
-## ✅ Dashboard Previews
+### ✅ Step 2 — Key Insights from the Dashboard
 
-### **Forecast & KPIs**
-Shows goal date, months to goal, contribution totals, and interest totals.
-![Forecast Tracking](assets/forecast_tracking.PNG)
+The baseline forecast shows:
 
----
+- Time to goal: **~7.8 years**  
+- Total contributions: **$20,000**  
+- Total interest earned: **~$3,200**  
+- Interest overtakes monthly contributions around Year 6  
 
-### **Monthly Cashflows**
-Shows deposits, interest, and ending balance month by month.
-![Cashflow Table](assets/cashflow.PNG)
-
----
-
-### **Scenario Analysis**
-Adjust deposit, APY, or projection length and see new results instantly.
-![Scenarios Page](assets/scenarios.PNG)
+The family is surprised — they believed they would hit the goal in 4–5 years.  
+This demonstrates why **data-driven forecasting** matters.
 
 ---
 
-## ✅ Project Structure
-```
-20k-savings-dashboard/
- ├─ app/
- │   ├─ app.py
- │   └─ pages/
- ├─ pipeline/
- │   ├─ generate_cashflows.py
- │   └─ load_to_sqlite.py
- ├─ data/
- │   └─ outputs/
- ├─ sql/
- ├─ tests/
- ├─ requirements.txt
- └─ README.md
-```
+### ✅ Step 3 — Scenario Testing
+
+The family uses the dashboard's Scenario page to ask:
+
+**What if we increase deposits to $150 every two weeks?**  
+New projection:
+- Time to goal drops to **5.1 years**
+
+**What if APY rises from 4% → 5%?**  
+- Goal accelerates by **6 months**
+
+**What if we combine both (higher deposit + higher APY)?**  
+- Goal achieved in **4.3 years**, almost **3.5 years faster** than the baseline
+
+These insights give them clear financial leverage points:
+- Contribution size matters more early  
+- APY matters more later as interest compounds  
+- Small changes create major long-term savings impacts  
 
 ---
 
+### ✅ Step 4 — Decision & Plan
+
+Based on the scenario analysis, they choose:
+
+✅ Increase deposits to **$150 bi-weekly**  
+✅ Switch to a **high-yield savings account** at 5%  
+✅ Review the dashboard monthly to monitor progress  
+
+The dashboard becomes their ongoing planning tool.
+
+---
+
+### ✅ Step 5 — Outcome After 12 Months
+
+When they revisit the dashboard after a year:
+
+- They are **ahead of schedule by 4 months**  
+- Contribution discipline improved because they could visually track progress  
+- Their interest earnings doubled compared to the old plan  
+- They now feel confident and motivated, not “guessing”  
+
+This reinforces the value of the dashboard:  
+**Clear numbers → better decisions → faster progress.**
