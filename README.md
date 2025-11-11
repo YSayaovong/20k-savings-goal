@@ -1,98 +1,118 @@
-## 📚 Case Study: Accelerating a Savings Goal Through Data-Driven Planning
+# 💰 Case Study: Accelerating a Savings Goal Through Data-Driven Financial Planning  
+**Forecasting & Scenario Modeling for Short-Term Capital Strategy**
 
-### ✅ Scenario
-A young family wants to build a **$20,000 emergency fund** as fast as possible.  
-They currently save inconsistently and have no clear idea of:
+## ✅ Executive Summary  
+A young family set a goal to build a **$20,000 emergency fund**, but lacked structured planning around deposits, interest growth, and timeline feasibility.  
+Their savings behavior was inconsistent, and they had no clear projection of:
 
-- When they’ll actually reach $20K  
-- How much interest they’re earning  
-- Whether their current deposit schedule is realistic  
-- How much faster they could reach their goal by adjusting deposits or APY  
+- When they would actually reach the goal  
+- How much of the final balance would come from contributions vs interest  
+- Whether their current cadence would meet the target in a reasonable timeframe  
+- How strategic adjustments could accelerate progress  
 
-They decide to use the **20K Savings Dashboard** to create a clear timeline and test different savings strategies.
+This **Savings Forecasting Dashboard** was designed to provide a clear timeline, financial insights, and scenario planning—similar to a light version of personal FP&A.
 
 ---
 
-### ✅ Step 1 — Baseline Inputs
-The family inputs their current plan:
+# ✅ Step 1 — Baseline Inputs & Initial Forecast  
+The family enters their current savings plan:
 
-- **$100 bi-weekly deposits**  
-- **4.00% APY**  
-- **Monthly compounding**  
-- **Starting balance: $0**  
+- **Deposit Amount:** $100 bi-weekly  
+- **APY:** 4.00%  
+- **Compounding Frequency:** Monthly  
+- **Starting Balance:** $0  
 
-The dashboard instantly generates:
+The dashboard automatically produces:
 
-- A **goal date projection**  
-- Total contributions vs interest earned  
-- A full **cashflow table**  
-- A visual progress tracker
+- Projected goal-completion date  
+- Contribution vs interest breakdown  
+- Month-to-month cashflow table  
+- Progress visualization toward the $20K target  
 
-**Forecast Tracking Preview**  
+### 📊 Forecast Tracking  
 ![Forecast Tracking](https://github.com/YSayaovong/20k-savings-goal/blob/main/assets/forecast_tracking.PNG)
 
+This provides immediate transparency into the long-term trajectory of their savings plan.
+
 ---
 
-### ✅ Step 2 — Key Insights from the Dashboard
+# ✅ Step 2 — Key Insights From the Baseline Forecast  
 
-The baseline forecast shows:
+The initial model reveals:
 
-- Time to goal: **~7.8 years**  
-- Total contributions: **$20,000**  
-- Total interest earned: **~$3,200**  
-- Interest overtakes monthly contributions around Year 6  
+- **Time to reach $20K:** ~7.8 years  
+- **Total contributions:** $20,000  
+- **Total interest earned:** ~$3,200  
+- Interest earnings surpass monthly contributions around **Year 6**
 
-**Cashflow Table Preview**  
+### 📄 Cashflow Table  
 ![Cashflow Table](https://github.com/YSayaovong/20k-savings-goal/blob/main/assets/cashflow.PNG)
 
-The family is surprised — they believed they would hit the goal in 4–5 years.  
-This demonstrates why **data-driven forecasting** matters.
+This analysis challenged the family’s assumptions—they expected to hit the goal in 4–5 years.  
+The dashboard highlights how long-term goals require **data-backed planning, not intuition**.
 
 ---
 
-### ✅ Step 3 — Scenario Testing
+# ✅ Step 3 — Scenario Modeling for Strategic Decision-Making  
 
-The family uses the dashboard's Scenario page to explore better strategies:
+To accelerate the timeline, the family uses the dashboard’s Scenario page to test different approaches:
 
-**What if we increase deposits to $150 every two weeks?**  
-- Time to goal drops to **5.1 years**
+### ✅ Scenario A — Increase deposits to $150 bi-weekly  
+- **New goal timeline:** 5.1 years  
 
-**What if APY rises from 4% → 5%?**  
-- Goal accelerates by **6 months**
+### ✅ Scenario B — Improve APY from 4% → 5%  
+- Saves ~6 months  
 
-**What if we combine both (higher deposit + higher APY)?**  
-- Goal achieved in **4.3 years**, nearly **3.5 years faster** than baseline
+### ✅ Scenario C — Combine larger deposits + higher APY  
+- **New goal timeline:** ~4.3 years  
+- Nearly **3.5 years faster** than the baseline  
 
-**Scenarios Preview**  
+### 📊 Scenarios Preview  
 ![Scenarios](https://github.com/YSayaovong/20k-savings-goal/blob/main/assets/scenarios.PNG)
 
-Insights gained:
-- Contribution size matters more early  
-- APY matters more later (compound effect)  
-- Minor adjustments drastically change the timeline  
+### ✅ Insights Learned  
+- Deposit size has the greatest impact early in the savings cycle  
+- APY becomes more influential as interest compounds  
+- Even small adjustments can meaningfully accelerate the goal timeline  
+
+This mirrors the same logic financial analysts use when reviewing contribution sensitivity and return-rate variability.
 
 ---
 
-### ✅ Step 4 — Decision & Plan
+# ✅ Step 4 — Final Strategy & Implementation  
 
-Based on what they learned, the family chooses to:
+After reviewing scenario results, the family decides to:
 
-✅ Increase deposits to **$150 bi-weekly**  
-✅ Move funds to a **5% high-yield savings account**  
-✅ Review the dashboard each month  
+- ✅ Increase bi-weekly deposits to **$150**  
+- ✅ Move savings to a **5% high-yield account**  
+- ✅ Review progress in the dashboard monthly  
 
-The dashboard becomes their personal financial planning assistant.
+The dashboard evolves into their personal **financial planning and accountability system**.
 
 ---
 
-### ✅ Step 5 — Outcome After 12 Months
+# ✅ Step 5 — Outcome After the First 12 Months  
 
 One year later:
 
-- They are **4 months ahead of schedule**  
-- Their interest earnings doubled  
-- Savings habits improved due to visual tracking  
-- They now feel confident, motivated, and in control  
+- ✅ Savings progress is **4 months ahead of schedule**  
+- ✅ Interest earnings doubled compared to baseline  
+- ✅ Contribution consistency improved due to visual tracking  
+- ✅ Goal progression became motivating and transparent  
 
-This demonstrates the dashboard’s core value:  
-**Clear numbers → Better decisions → Faster goals.**
+The project demonstrates how simple, structured analytics can transform short-term financial goals into predictable, achievable outcomes.
+
+---
+
+# ✅ Tools & Technologies  
+- Excel (Power Query, Compounding Logic, Scenario Modeling)  
+- KPI Modeling (Contribution vs Interest Analysis)  
+- Financial Forecasting (Run-Rate, Sensitivity, Goal Tracking)  
+- Git/GitHub for version control  
+
+---
+
+# ✅ Summary  
+This case study showcases how a data-driven approach to personal financial planning can dramatically improve clarity, confidence, and decision-making.  
+Through forecasting, scenario testing, and KPI visibility, the dashboard helps users reach financial goals **faster and with greater precision**—reflecting the same analytical discipline used in corporate financial planning.
+
